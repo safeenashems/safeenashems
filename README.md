@@ -59,18 +59,18 @@
  GlamMart</h3>
       <p>E-commerce Web Application</p>
       <a href="https://glam-mart-ecommerce-appln-u29n.vercel.app"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View GlamMart" /></a>
-    </td>
-    <td width="25%" align="center">
-      <h3>🥬 Farm Fresh</h3>
-      <p>Supermarket Web Project</p>
-      <a href="https://github.com/safeenashems/farm-fresh-supermarket"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Farm Fresh" /></a>
-    </td>   
+    </td>  
     <td width="25%" align="center">
       <h3><img width="30" height="30" alt="favicon" src="https://github.com/user-attachments/assets/e54e4d54-27e2-4555-be56-03dd2952ec85" />
  Nature's Pantry</h3>
       <p>Supermarket Web Project</p>
       <a href="https://safeenashems.github.io/NaturesPantry-Website/"> <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Nature's Pantry" /></a>
     </td>
+     <td width="25%" align="center">
+      <h3><img width="30" height="30" src="htttps://github.com/safeenashems/CEEFIVE-Restaurant-website/blob/master/images/c5%20logo.jpg" />CEEFIVE Restaurant</h3>
+      <p>Static restaurant website</p>
+      <a href="https://github.com/safeenashems/CEEFIVE-Restaurant-website"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View ceefive" /></a>
+    </td> 
   </tr>
 </table>📈 GitHub Statistics
 <p align="center" height="300">
