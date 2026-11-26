@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Digital_Marketing-E4405F?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Digital Marketing" />
   <img src="https://img.shields.io/badge/AI_Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
 </p>🚀 Featured Projects
-<table>
+<table align="center" cellspacing="12">
   <tr>
     <td width="25%" align="center">
       <h3>🍽️ WellPlate</h3>
@@ -60,6 +60,8 @@
       <p>E-commerce Web Application</p>
       <a href="https://glam-mart-ecommerce-appln-u29n.vercel.app"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View GlamMart" /></a>
     </td>  
+  </tr>
+  <tr>
     <td width="25%" align="center">
       <h3><img width="30" height="30" alt="favicon" src="https://github.com/user-attachments/assets/e54e4d54-27e2-4555-be56-03dd2952ec85" />
  Nature's Pantry</h3>
