@@ -69,7 +69,7 @@
     <td width="50%" align="center">
       <h3>🌿 Nature's Pantry</h3>
       <p>Supermarket Web Project</p>
-      <a href="https://github.com/safeenashems/naturesPantry_SuperMarket"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Nature's Pantry" /></a>
+      <a href="https://github.com/safeenashems/NaturesPantry-Website"> <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Nature's Pantry" /></a>
     </td>
   </tr>
   <tr>
