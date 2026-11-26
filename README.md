@@ -69,7 +69,7 @@
      <td width="25%" align="center">
       <h3><img width="30" height="30" src="htttps://github.com/safeenashems/CEEFIVE-Restaurant-website/blob/master/images/c5%20logo.jpg" />CEEFIVE Restaurant</h3>
       <p>Static restaurant website</p>
-      <a href="https://github.com/safeenashems/CEEFIVE-Restaurant-website"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View ceefive" /></a>
+      <a href="https://safeenashems.github.io/CEEFIVE-Restaurant-website/"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View ceefive" /></a>
     </td> 
   </tr>
 </table>📈 GitHub Statistics
