@@ -58,7 +58,7 @@
       <h3><img width="30" height="30" alt="logo" src="https://github.com/user-attachments/assets/21120322-638b-4a7e-ad26-fb8a5a3a7269" />
  GlamMart</h3>
       <p>E-commerce Web Application</p>
-      <a href="https://github.com/safeenashems/GlamMart-ecommerceAppln"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View GlamMart" /></a>
+      <a href="https://glam-mart-ecommerce-appln-u29n.vercel.app"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View GlamMart" /></a>
     </td>
   </tr>
   <tr>
