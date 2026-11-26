@@ -49,48 +49,34 @@
 </p>🚀 Featured Projects
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <h3>🍽️ WellPlate</h3>
       <p>MERN Stack Recipe Application</p>
       <a href="https://github.com/safeenashems/WellPlate"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View WellPlate" /></a>
     </td>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <h3><img width="30" height="30" alt="logo" src="https://github.com/user-attachments/assets/21120322-638b-4a7e-ad26-fb8a5a3a7269" />
  GlamMart</h3>
       <p>E-commerce Web Application</p>
       <a href="https://glam-mart-ecommerce-appln-u29n.vercel.app"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View GlamMart" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <h3>🥬 Farm Fresh</h3>
       <p>Supermarket Web Project</p>
       <a href="https://github.com/safeenashems/farm-fresh-supermarket"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Farm Fresh" /></a>
     </td>   
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <h3><img width="30" height="30" alt="favicon" src="https://github.com/user-attachments/assets/e54e4d54-27e2-4555-be56-03dd2952ec85" />
  Nature's Pantry</h3>
       <p>Supermarket Web Project</p>
       <a href="https://safeenashems.github.io/NaturesPantry-Website/"> <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Nature's Pantry" /></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📦 Stock Management</h3>
-      <p>Stock Management Project</p>
-      <a href="https://github.com/safeenashems/stock-management"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Stock Management" /></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🍴 CEEFIVE Restaurant</h3>
-      <p>Restaurant Website</p>
-      <a href="https://github.com/safeenashems/CEEFIVE-Restaurant-website"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View CEEFIVE Restaurant" /></a>
-    </td>
-  </tr>
 </table>📈 GitHub Statistics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=safeenashems&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeenashems&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p><p align="center">
+<p align="center" height="300">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=safeenashems&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeenashems&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p><p align="center" height="300">
   <img src="https://streak-stats.demolab.com/?user=safeenashems&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>🌱 What I'm Exploring
 - Python programming
