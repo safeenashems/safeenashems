@@ -55,7 +55,8 @@
       <a href="https://github.com/safeenashems/WellPlate"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View WellPlate" /></a>
     </td>
     <td width="50%" align="center">
-      <h3>🛍️ GlamMart</h3>
+      <h3><img width="30" height="30" alt="logo" src="https://github.com/user-attachments/assets/21120322-638b-4a7e-ad26-fb8a5a3a7269" />
+ GlamMart</h3>
       <p>E-commerce Web Application</p>
       <a href="https://github.com/safeenashems/GlamMart-ecommerceAppln"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View GlamMart" /></a>
     </td>
@@ -66,6 +67,7 @@
       <p>Supermarket Web Project</p>
       <a href="https://github.com/safeenashems/farm-fresh-supermarket"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Farm Fresh" /></a>
     </td>
+    
     <td width="50%" align="center">
       <h3><img width="30" height="30" alt="favicon" src="https://github.com/user-attachments/assets/e54e4d54-27e2-4555-be56-03dd2952ec85" />
  Nature's Pantry</h3>
