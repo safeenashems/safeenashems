@@ -67,9 +67,10 @@
       <a href="https://github.com/safeenashems/farm-fresh-supermarket"><img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Farm Fresh" /></a>
     </td>
     <td width="50%" align="center">
-      <h3>🌿 Nature's Pantry</h3>
+      <h3><img width="30" height="30" alt="favicon" src="https://github.com/user-attachments/assets/e54e4d54-27e2-4555-be56-03dd2952ec85" />
+ Nature's Pantry</h3>
       <p>Supermarket Web Project</p>
-      <a href="https://github.com/safeenashems/NaturesPantry-Website"> <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Nature's Pantry" /></a>
+      <a href="[https://github.com/safeenashems/NaturesPantry-Website](https://safeenashems.github.io/NaturesPantry-Website/)"> <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Nature's Pantry" /></a>
     </td>
   </tr>
   <tr>
